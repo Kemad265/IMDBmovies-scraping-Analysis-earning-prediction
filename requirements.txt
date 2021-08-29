@@ -3,7 +3,7 @@ pandas
 matplotlib
 seaborn
 requests
-BeautifulSoup
+BeautifulSoup4
 scikit-learn
 streamlit
 joblib
